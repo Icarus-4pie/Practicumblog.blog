@@ -1,0 +1,2 @@
+# Practicumblog.blog
+OJTPracticumBlogRequirement
